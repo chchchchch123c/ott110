@@ -22,7 +22,7 @@ class ClassifyGenre extends StatelessWidget {
       },
     );
     return Text(
-      genreText, // ㅎㅇ
+      genreText, // ㅎㅇㄹ
       style: const TextStyle(color: Colors.white, fontSize: 16),
     );
   }
