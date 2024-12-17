@@ -1,6 +1,6 @@
 # ott110
 
-A new Flutter project.
+개발 완료
 
 ## Getting Started
 
